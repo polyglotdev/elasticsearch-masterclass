@@ -56,7 +56,9 @@ Now you will need to change the `$JAVA_HOME` inside kibana and elasticsearch to 
 
 > 🛑 Before you run this below and fuck your install up please make note that I use [sdkman](https://sdkman.io/). Whenever I give directions like this I really do try and remind the reader that is is based on my individual setup. It makes me think of that part in Dr. Strange where he opens the Eye of Agamotto for the first time and then gets screamed at by Wong and Mordo because:
 
-![the warnings should come before the spells](./images/warnings-before-the-spells.mp4)
+
+https://github.com/polyglotdev/elasticsearch-masterclass/assets/28935096/29dd581f-2d28-4b3b-9ed0-0d24732ea829
+
 
 ```bash
 #!/bin/sh
